@@ -1,2 +1,2 @@
 # Super-Heroes-
-FNB Academy 2025 - App Development Bootcamp
+FNB App Academy 2025 - App Development Bootcamp
