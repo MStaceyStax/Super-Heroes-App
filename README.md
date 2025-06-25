@@ -1,5 +1,6 @@
-![Super Hero App](https://github.com/user-attachments/assets/709c7013-cc87-47d9-b90b-947eea66b269)Super-Heroes - FNB App Academy 2025 - App Development Bootcamp
-🍿Preview 
+Super-Heroes APP - FNB App Academy 2025 
+
+🍿Preview - ![Super Hero App](https://github.com/user-attachments/assets/709c7013-cc87-47d9-b90b-947eea66b269)
 
 💭 Project - During my self teaching journey, I joined the FNB APP Academy Program for 2025 of which we were assisgned to create a Super Hero Websit.
 
